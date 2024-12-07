@@ -1,0 +1,4 @@
+# package manager thingies
+package-lock.json
+yarn.lock
+node_modules/
